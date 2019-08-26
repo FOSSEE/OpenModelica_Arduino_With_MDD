@@ -1,10 +1,11 @@
 # OpenModelica_Arduino_With_MDD on Linux (Ubuntu 16.04 onwards)
 Embedded Experiments with OpenModelica and Arduino with facility for Embedded C code generation.
 
-Free & Open Source library for based on OpenModelica to perform Embedded Experiments with Arduino.Also, there is a facility to  generate Embedded C code by using Modelica_DeviceDrivers models.
+Free & Open Source library based on OpenModelica to perform Embedded Experiments with Arduino. Also, there is a facility to  generate Embedded C code by using Modelica_DeviceDriver models.
+
 Library description
 
-The library is an open source Modelica package for rael-time simulation of circuit designs involving Arduino platforms based on AVR Atmega328P MCUs.
+The library is an open source Modelica package for real-time simulation of circuit designs involving Arduino platforms based on AVR Atmega328P MCUs.
 
 Main features:
 
