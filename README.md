@@ -1,5 +1,6 @@
 # OpenModelica_Arduino_With_MDD on Linux (Ubuntu 16.04 onwards)
-Embedded Experiments with OpenModelica and Arduino with facility for Embedded C code generation
+Embedded Experiments with OpenModelica and Arduino with facility for Embedded C code generation.
+
 Free & Open Source library for based on OpenModelica to perform Embedded Experiments with Arduino.Also, there is a facility to  generate Embedded C code by using Modelica_DeviceDrivers models.
 Library description
 
